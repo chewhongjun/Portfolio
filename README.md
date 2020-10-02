@@ -11,7 +11,7 @@ Portfolio made using the following stack:
 
 Develop:
 
-For development purpose.
+For development purpose "at your localhost".
 
 `npm start`
 
@@ -27,4 +27,5 @@ Starts a local server for testing production build.
 
 `npm run serve`
 
+Its Open Source created by Sharvin26 !
 

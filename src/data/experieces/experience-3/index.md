@@ -2,7 +2,7 @@
 category: 'experiences'
 company: 'KplayTeam ( Remote )'
 position: 'Contract - Software Developer'
-startDate: 'August 2020'
+startDate: 'July 2020'
 endDate: 'Present'
 ---
 
